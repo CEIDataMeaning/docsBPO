@@ -1,7 +1,0 @@
-- Analisis de Covered Spend - Terminado 
-- Analisis Biologics  - Inconcluso 
-- Top Procedimientos - Empezando
-- Solicitudes de Analisis , Admin Fee , Analisis de Farma Chile
-- Dashboard de MPAs
-- Entrevistas con Candidatos analitica
-- Junta con Jess de dashboard Cartera venci
